@@ -20,4 +20,4 @@ Address: Shastri Nagar, Akbarpur, Ambedkar Nagar pincode: 224122
 
 # Developer-Contact
 
-<i href="https://theshubham.in">Click Me</i>
+<a href="https://theshubham.in">Click Me</a>
