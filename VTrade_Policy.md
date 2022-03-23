@@ -14,10 +14,10 @@ We encourage you to check this Policy regularly to stay informed of any updates 
 
 This Policy is effective as from 23rd March 2022.
 
-#CONTACT US
+# CONTACT US
 
 Address: Shastri Nagar, Akbarpur, Ambedkar Nagar pincode: 224122
 
-#Developer-Contact
+# Developer-Contact
 
 <i href="https://theshubham.in">Click Me</i>
