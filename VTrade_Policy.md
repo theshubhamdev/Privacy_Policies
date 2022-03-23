@@ -16,7 +16,12 @@ This Policy is effective as from 23rd March 2022.
 
 # CONTACT US
 
-Address: Shastri Nagar, Akbarpur, Ambedkar Nagar pincode: 224122
+Address: 
+Shastri Nagar, 
+Akbarpur, 
+Ambedkar Nagar,
+Uttar Pradesh
+pincode: 224122
 
 # Developer-Contact
 
